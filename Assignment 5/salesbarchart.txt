@@ -1,0 +1,15 @@
+Enter today's sales for store 1: 0[Enter]
+Enter today's sales for store 2: 0[Enter]
+Enter today's sales for store 3: 0[Enter]
+Enter today's sales for store 4: 0[Enter]
+Enter today's sales for store 5: 0[Enter]
+
+SALES BAR CHART
+
+(Each * = $100)
+
+Store 1: 
+Store 2: 
+Store 3: 
+Store 4: 
+Store 5: 
